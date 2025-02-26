@@ -1,2 +1,2 @@
 # Manufacturing-ElectroniTech-Manufacturing-Co.
-The project aims to analyze ElectroniTech Manufacturing Co. 's operational datasets to gain insights into customer behavior, employee efficiency, shipment logistics, and financial transactions
+The project aims to analyze ElectroniTech Manufacturing Co.'s operational datasets to gain insights into customer behavior, employee efficiency, shipment logistics, and financial transactions. Perform comprehensive data analysis using Excel to identify trends, inefficiencies, and potential areas for improvement. Key tasks include data cleaning and integration, detailed analysis of customer and employee data, shipment tracking, financial analysis, and the development of a dynamic dashboard to visualize key metrics
